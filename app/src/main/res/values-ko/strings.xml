@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">사다리 게임</string>
+    <string name="action_example">시작</string>
+    <string name="action_settings">설정</string>
+    <string name="number_dialog_title">사다리는 몇 개?</string>
+    <string name="confirm">확인</string>
+    <string name="cancel">취소</string>
+</resources>
